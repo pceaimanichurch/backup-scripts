@@ -10,4 +10,5 @@
 
     REM Push to main repo
     git push origin main
+    exit
 
